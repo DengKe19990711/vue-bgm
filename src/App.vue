@@ -12,7 +12,7 @@
 </template>
 
 <style lang="scss">
-//设置两个颜色
+//设置两个颜色   我会嘤嘤嘤
  .router-link-active{
    color:pink;
  }
